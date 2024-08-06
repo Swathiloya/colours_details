@@ -1,0 +1,6 @@
+S.no#colours
+1#white
+2#yellow
+3#red
+4#pink
+5#orange
